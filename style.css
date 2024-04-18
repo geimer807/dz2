@@ -1,0 +1,17 @@
+.red{
+    background-color: grey;
+    margin-right: 2px;
+    color: red;
+    padding:0 3px;
+    font-size: 30px;
+}
+.black{
+    background-color: grey;
+    margin-right: 2px;
+    color: black;
+    padding:0 3px;
+    font-size: 30px;
+}
+p{
+    font-size: 40px;
+}
